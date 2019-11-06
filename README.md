@@ -1,6 +1,8 @@
 # SpikingAutoencoder
 
 This is the code for the work presented in the paper "Synthesizing Images from Spatio-Temporal Representations using Spike-based Backpropagation"
+https://www.frontiersin.org/articles/10.3389/fnins.2019.00621/full
+
 
 For audio to image conversion, 2 different datasets are used : \
 Dataset A: one image per class\
